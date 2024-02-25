@@ -1,0 +1,16 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "RickAndMortyWeb3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliseTonight/RickAndMortyWeb3.git"
+  },
+}
