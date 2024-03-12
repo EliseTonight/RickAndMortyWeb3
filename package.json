@@ -1,5 +1,5 @@
 {
-  "name": "npmtest",
+  "name": "xwz-web3-001",
   "version": "1.0.0",
   "description": "RickAndMortyWeb3",
   "main": "index.js",
@@ -13,4 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/EliseTonight/RickAndMortyWeb3.git"
   },
+  "dependencies": {
+    "mathjs": "^9.5.0",
+    "date-fns": "^2.22.1",
+    "crypto-js": "^4.1.1",
+    "lodash": "^4.17.21"
+  }
 }
